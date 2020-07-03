@@ -30,20 +30,8 @@ namespace NumberGuesser
                         guessingGame = false;
                     }
                 }
-
-                
-
-
-
-
         }
 
-      
-
-
-
-
-
-        }
     }
+}
 
